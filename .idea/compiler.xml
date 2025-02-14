@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="microservice1" />
+        <module name="eureka" />
       </profile>
       <profile name="Annotation profile for microservice2" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -21,6 +22,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="eureka" options="-parameters" />
       <module name="microservice1" options="-parameters" />
       <module name="microservice2" options="-parameters" />
     </option>
