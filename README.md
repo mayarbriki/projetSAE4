@@ -12,7 +12,14 @@ Features
     Security & Performance Optimization: Implements caching, logging, and monitoring.
 
 Architecture
-![image](https://github.com/user-attachments/assets/634a6a3b-038d-4046-80ff-65b9c9355446)
+![image](https://github.com/user-attachments/assets/cf1c9765-4718-486b-bcf3-d48ad1071b0d)
+![image](https://github.com/user-attachments/assets/ff8f323b-4e72-4f64-9791-23964ea4e250)
+![image](https://github.com/user-attachments/assets/3a1c50d1-d34d-41b4-843c-8a1d9df3e8ba)
+![image](https://github.com/user-attachments/assets/7e74a5c8-2d91-4516-b4e1-91c298cd3e7b)
+
+
+
+
 
 The platform consists of multiple microservices, including:
 
