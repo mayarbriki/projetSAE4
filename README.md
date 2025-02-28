@@ -47,7 +47,7 @@ Deployment
 Tech Stack
 
     Spring Boot (Backend)
-    MongoDB (Database)
+    MySQL (Database)
     Eureka (Service Discovery)
     JWT (Authentication)
     Redis (Caching)
